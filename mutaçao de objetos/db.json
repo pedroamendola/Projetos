@@ -1,0 +1,24 @@
+{
+    "produtos" : [
+        {
+            "id" : 1,
+            "nome" : "Pren",
+            "preco" : 100.00
+        },
+        {
+            "id" : 2,
+            "nome" : "Ice",
+            "preco" : 150.00
+        },
+        {
+            "id" : 3,
+            "nome" : "Hash",
+            "preco" : 200.00
+        },
+        {
+            "id" : 4,
+            "nome" : "Flor",
+            "preco" : 400.00
+        }
+    ]
+}
